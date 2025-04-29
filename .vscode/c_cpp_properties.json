@@ -4,8 +4,9 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}",
+                "${workspaceFolder}/ac_semi_2025/include/",
                 "${workspaceFolder}/src/ac25_test/include/",
-                "${workspaceFolder}/install/ac25_test/include/ac25_test",
+                "${workspaceFolder}/install/ac25_test/include/ac25_test/",
                 "/opt/ros/jazzy/include/**"
             ],
             "defines": [],
