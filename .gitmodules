@@ -1,0 +1,15 @@
+[submodule "src/urg_node2"]
+	path = src/urg_node2
+	url = https://github.com/Stew-000-1-0-011/urg_node2.git
+[submodule "src/undercarriage"]
+	path = src/undercarriage
+	url = https://github.com/crs-kouhou/undercarriage.git
+[submodule "src/robomas_plugins"]
+	path = src/robomas_plugins
+	url = https://github.com/crs-kouhou/robomas_plugins.git
+[submodule "src/ac25_test"]
+	path = src/ac25_test
+	url = https://github.com/crs-kouhou/ac25_test.git
+[submodule "ac_semi_2025"]
+	path = ac_semi_2025
+	url = https://github.com/crs-kouhou/ac_semi_2025.git
